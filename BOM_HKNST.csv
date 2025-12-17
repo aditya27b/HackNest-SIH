@@ -1,0 +1,39 @@
+Category,Component,Specification,Quantity,Unit Price (₹),Total Price (₹),Supplier/Link,Purpose
+Microcontroller,ESP32 DevKit,Dual-core 240MHz with WiFi+BT,2,380,760,Robu.in,Main controller + 1 backup
+Sensors - Environmental,DHT22,Temp (-40 to 80°C) + Humidity (0-100%),3,140,420,Amazon/Robu,Multi-zone temp/humidity monitoring
+Sensors - Environmental,MQ-135,Air quality (NH3 CO2 smoke),2,110,220,Robu.in,Ammonia detection in 2 zones
+Sensors - Weight,HX711 + 5kg Load Cell,Weight measurement module,2,180,360,Amazon,Smart perch for weight tracking
+Sensors - Water,JSN-SR04T,Waterproof ultrasonic sensor,1,280,280,Robu.in,Water level/consumption monitoring
+Sensors - Feed,YF-S201,Water flow sensor (adapted for feed),1,150,150,Amazon,Feed consumption rate tracking
+Sensors - Activity,HC-SR501,PIR motion sensor,2,35,70,Local electronics,Bird activity monitoring 2 zones
+Timing,DS3231 RTC Module,Real-time clock with battery,1,120,120,Robu.in,Accurate timestamps offline
+Display,"0.96"" OLED Display",128x64 I2C display,1,180,180,Amazon,Live data display on device
+Power - Solar,10W Solar Panel,Polycrystalline 18V output,1,450,450,Local solar shop,Primary power source
+Power - Battery,18650 Li-ion cells,3.7V 2600mAh cells,4,80,320,Local battery shop,Power storage (2S2P = 7.4V 5200mAh)
+Power - Management,TP4056 Charging Module,Li-ion charge controller,2,25,50,Robu.in,Battery charging circuit
+Power - Regulation,LM2596 Buck Converter,Step-down DC-DC 3A,2,45,90,Amazon,5V regulation for ESP32
+Power - Protection,18650 Battery Holder,2-cell holder with protection,2,35,70,Local electronics,Safe battery mounting
+Connectivity,SIM800L GSM Module,2G backup connectivity,1,320,320,Robu.in,SMS alerts when WiFi unavailable
+Storage,MicroSD Card Module,SPI interface with 16GB card,1,150,150,Amazon,Offline data logging
+Enclosure,IP65 Junction Box,200x120x75mm waterproof,1,280,280,Industrial supplier,Main weatherproof housing
+Enclosure,Small Project Box,100x60x25mm,1,80,80,Local electronics,Sensor breakout box
+Mounting,L-brackets,Stainless steel mounting,4,25,100,Hardware store,Secure installation
+Wiring,Jumper Wires,Male-Female 40pcs pack,2,60,120,Local electronics,Sensor connections
+Wiring,22 AWG Stranded Wire,Multi-color 10m pack,1,80,80,Local electronics,Power distribution
+Wiring,Cable Glands,PG7 waterproof glands 10pcs,1,90,90,Industrial supplier,Sealed wire entry
+Connectors,JST Connectors,2-pin 10 pairs,1,80,80,Robu.in,Removable sensor connections
+Protection,Heat Shrink Tubing,Assorted sizes 1m pack,1,50,50,Local electronics,Wire insulation
+PCB,Prototype PCB,Double-sided 7x9cm,2,40,80,Local electronics,Permanent circuit assembly
+Passive Components,Resistor Kit,1/4W 1% metal film 100pcs,1,80,80,Local electronics,Pull-up/current limiting
+Passive Components,Capacitor Kit,Electrolytic + ceramic mix 50pcs,1,100,100,Local electronics,Power filtering
+Tools/Misc,Soldering Supplies,Solder wire + flux,1,80,80,Local electronics,Assembly
+Tools/Misc,Screws & Standoffs,M3 assorted kit,1,60,60,Hardware store,Mounting components
+Labeling,Label Maker Tape,Waterproof labels,1,120,120,Stationery,Professional labeling
+Display Materials,Foam Board,A3 size white 5mm,2,40,80,Stationery,Presentation display board
+Display Materials,Lamination Sheets,A4 size 10pcs,1,80,80,Stationery,Weatherproof spec sheets
+Backup,ESP32 DevKit,Backup controller,Included above,0,0,Robu.in,Already counted in row 1
+Backup,DHT22 Sensor,Backup environmental sensor,Included above,0,0,Amazon,Already counted in row 2
+Contingency,Misc Components,Spare parts/shipping buffer,1,200,200,Various,Unforeseen needs
+,,,,,,,
+SUBTOTAL,,,,,5740,,
+TOTAL (with contingency),,,,,5740,,Budget: ₹6000 (₹260 buffer)
