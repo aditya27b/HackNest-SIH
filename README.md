@@ -1,5 +1,7 @@
 HACKNEST - IoT Farm Biosecurity System
 ## Technical Documentation for SIH 2025
+![IMG_6909](https://github.com/user-attachments/assets/a84f07fa-90e1-454a-99cc-673b029dd155)
+
 
 *Project:* AI-Powered Poultry/Pig Farm Monitoring Platform  
 *Team:* HACKNEST | *Date:* December 2024  
@@ -20,6 +22,9 @@ HACKNEST is an offline-first IoT biosecurity monitoring system combining real-ti
 ---
 
 ## 2. HARDWARE ARCHITECTURE
+
+<img width="902" height="1600" alt="image" src="https://github.com/user-attachments/assets/64a6bc3d-a7dd-498b-a690-46e2ba4cf27a" />
+
 
 ### 2.1 Component Specifications
 
@@ -278,6 +283,9 @@ Img:14:23:15 R:52      ← Last photo + vision risk
 ---
 
 ## 8. CONCLUSION
+
+<img width="1600" height="902" alt="image" src="https://github.com/user-attachments/assets/04ff7894-bcbf-4535-8b03-3c2d556864f5" />
+
 
 HACKNEST demonstrates a scalable, offline-capable IoT solution for farm biosecurity monitoring. The dual-ESP32 architecture with ESP-NOW enables real-time sensor-vision data fusion without infrastructure dependency, critical for rural deployment. The system successfully integrates 11 sensors with computer vision AI, achieving <10ms inter-controller latency and 2-second sensor refresh rates.
 
