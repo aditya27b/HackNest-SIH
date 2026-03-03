@@ -1,6 +1,7 @@
 HACKNEST - IoT Farm Biosecurity System
 ## Technical Documentation for SIH 2025
 ![IMG_6909](https://github.com/user-attachments/assets/a84f07fa-90e1-454a-99cc-673b029dd155)
+<img width="1014" height="719" alt="image" src="https://github.com/user-attachments/assets/4815775d-1703-4206-9934-0bf1ff53ed23" />
 
 
 *Project:* AI-Powered Poultry/Pig Farm Monitoring Platform  
@@ -281,8 +282,21 @@ Img:14:23:15 R:52      ← Last photo + vision risk
 6. Verify [CAM] indicator on OLED
 
 ---
+## 8. CAD Files
+Biosense_hub_v8_fixed - main box enclose for the project
+<img width="1123" height="625" alt="image" src="https://github.com/user-attachments/assets/59717646-2086-4638-8825-9a51ae5f6558" />
 
-## 8. CONCLUSION
+Weight_panels - for the weight cell flat pans
+<img width="986" height="587" alt="image" src="https://github.com/user-attachments/assets/2a5f9cfa-ca42-408f-8608-5c1b82ac4293" />
+
+load_cell_stand - for the loadcell fixation on the enclosure
+<img width="866" height="531" alt="image" src="https://github.com/user-attachments/assets/724712b1-9203-4590-ad6b-3c2f4bed6466" />
+
+
+
+---
+
+## 9. CONCLUSION
 
 <img width="1600" height="902" alt="image" src="https://github.com/user-attachments/assets/04ff7894-bcbf-4535-8b03-3c2d556864f5" />
 
