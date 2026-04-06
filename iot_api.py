@@ -1,5 +1,5 @@
 """
-IoT Device & Sensor Management API
+IoT Device & Sensor Management API (ADDED as in alternate/additional part isnt really necessary for the hacknest project thats mentioned)
 ===================================
 Handles IoT devices and sensor readings.
 
