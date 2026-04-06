@@ -1,5 +1,5 @@
 """
-CRUD Operations for IoT Devices and Sensor Readings
+CRUD Operations for IoT Devices and Sensor Readings (ADDED as in alternate/additional part isnt really necessary for the hacknest project thats mentioned)
 ====================================================
 """
 from sqlalchemy.ext.asyncio import AsyncSession
