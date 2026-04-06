@@ -1,3 +1,4 @@
+#(ADDED as in alternate/additional part isnt really necessary for the hacknest project thats mentioned)
 from sqlalchemy import Column, Integer, String, Float, ForeignKey, DateTime, Boolean
 from sqlalchemy.orm import relationship
 from sqlalchemy.sql import func
