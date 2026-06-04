@@ -36,5 +36,5 @@ Backup,ESP32 DevKit,Backup controller,Included above,0,0,Robu.in,Already counted
 Backup,DHT22 Sensor,Backup environmental sensor,Included above,0,0,Amazon,Already counted in row 2
 Contingency,Misc Components,Spare parts/shipping buffer,1,200,200,Various,Unforeseen needs
 ,,,,,,,
-SUBTOTAL,,,,,5740,,
-TOTAL (with contingency),,,,,5740,,Budget: ₹6000 (₹260 buffer)
+SUBTOTAL,,,,,6220,,
+TOTAL (with contingency),,,,,6220,,Budget: ₹6500 (₹280 buffer)
