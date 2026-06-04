@@ -1,5 +1,6 @@
 Category,Component,Specification,Quantity,Unit Price (₹),Total Price (₹),Supplier/Link,Purpose
 Microcontroller,ESP32 DevKit,Dual-core 240MHz with WiFi+BT,2,380,760,Robu.in,Main controller + 1 backup
+Microcontroller,ESP32 CAM, OV2640 CAM WiFi+BT,1,480,480,Robu.in, cam feed for later openCV
 Sensors - Environmental,DHT22,Temp (-40 to 80°C) + Humidity (0-100%),3,140,420,Amazon/Robu,Multi-zone temp/humidity monitoring
 Sensors - Environmental,MQ-135,Air quality (NH3 CO2 smoke),2,110,220,Robu.in,Ammonia detection in 2 zones
 Sensors - Weight,HX711 + 5kg Load Cell,Weight measurement module,2,180,360,Amazon,Smart perch for weight tracking
