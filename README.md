@@ -2,7 +2,8 @@ HACKNEST - IoT Farm Biosecurity System
 ## Technical Documentation / README
 
 ![IMG_6909](https://github.com/user-attachments/assets/a84f07fa-90e1-454a-99cc-673b029dd155)
-<img width="1014" height="719" alt="image" src="https://github.com/user-attachments/assets/4815775d-1703-4206-9934-0bf1ff53ed23" />
+<img width="1258" height="853" alt="image" src="https://github.com/user-attachments/assets/a794c065-9c0d-4db8-b166-147958d30f50" />
+
 
 
 *Project:* Poultry Farm Monitoring Platform 
